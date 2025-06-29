@@ -1,4 +1,8 @@
 /* your code here */
+.media-icons
+{
+	display:flex;
+}
 .top
 {
 	display:flex;
