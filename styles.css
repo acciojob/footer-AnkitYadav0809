@@ -30,6 +30,10 @@ footer {
 .media-icons a {
     margin: 0 5px;
 }
+.media-icons
+{
+	display:flex;
+}
 @media (max-width: 600px) {
     footer {
         flex-direction: column;
